@@ -71,8 +71,8 @@ We welcome contributions! Please follow these steps to contribute:
 1. **Fork the Repository** - Click the "Fork" button on the top-right corner of this repository.
 2. **Clone Your Fork** -
    ```sh
-   git clone https://github.com/your-username/Nuxt3-Tailwind4-Boilerplate.git
-   cd Nuxt3-Tailwind4-Boilerplate
+   git clone https://github.com/tfd-ed/nuxt3-tailwind4-boilerplate.git
+   cd nuxt3-tailwind4-boilerplate
    ```
 3. **Create a New Branch** -
    ```sh

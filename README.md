@@ -60,6 +60,9 @@ Nuxt3-Tailwind4-Boilerplate/
 ├── tailwind.config.js # Tailwind CSS configuration
 └── eslint.config.mjs  # ESLint configuration
 ```
+## Acknowledgment
+Thanks to:
+- [HyperUI](https://www.hyperui.dev/) for providing ready-to-use tailwind components 
 
 ## Contribution Guide
 

@@ -23,8 +23,8 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Nuxt3-Tailwind4-Boilerplate.git
-   cd Nuxt3-Tailwind4-Boilerplate
+   git clone https://github.com/tfd-ed/nuxt3-tailwind4-boilerplate.git
+   cd nuxt3-tailwind4-boilerplate
    ```
 2. Install dependencies:
    ```sh
